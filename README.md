@@ -30,5 +30,6 @@ Didalam tabel terdapat button detail yang ketika di klik akan menampilkan detail
 
 ![landing page](https://github.com/azzahraalika/LP9DPBO2023C2/assets/101117829/6a17eebe-ce23-40cd-a88c-97558a64d54b)
 ![tabel](https://github.com/azzahraalika/LP9DPBO2023C2/assets/101117829/f93bc9c4-f762-4036-b0e5-5ed5ae25079f)
-https://github.com/azzahraalika/LP9DPBO2023C2/assets/101117829/4e86c20c-41a5-493f-bea0-53c4bb34b548
+
+https://github.com/azzahraalika/LP9DPBO2023C2/assets/101117829/3350d441-c3f1-406c-b0e7-f2bd09499c7e
 
