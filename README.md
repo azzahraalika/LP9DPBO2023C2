@@ -25,5 +25,8 @@ pertama-tama ketika menjalankan program, program akan menampilkan landing page d
 Didalam tabel terdapat button detail yang ketika di klik akan menampilkan detail dari daftar tersebut. Dan ketika klik button exit maka program akan berakhir. 
 
 ## DOKUMENTASI
+#### LATIHAN DATABASE
+![latihan database](https://github.com/azzahraalika/LP9DPBO2023C2/assets/101117829/44531cec-a91e-4c5a-97ff-1e3a838c22c9)
+
 https://github.com/azzahraalika/LP9DPBO2023C2/assets/101117829/4e86c20c-41a5-493f-bea0-53c4bb34b548
 
