@@ -28,5 +28,7 @@ Didalam tabel terdapat button detail yang ketika di klik akan menampilkan detail
 #### LATIHAN DATABASE
 ![latihan database](https://github.com/azzahraalika/LP9DPBO2023C2/assets/101117829/44531cec-a91e-4c5a-97ff-1e3a838c22c9)
 
+![landing page](https://github.com/azzahraalika/LP9DPBO2023C2/assets/101117829/6a17eebe-ce23-40cd-a88c-97558a64d54b)
+![tabel](https://github.com/azzahraalika/LP9DPBO2023C2/assets/101117829/f93bc9c4-f762-4036-b0e5-5ed5ae25079f)
 https://github.com/azzahraalika/LP9DPBO2023C2/assets/101117829/4e86c20c-41a5-493f-bea0-53c4bb34b548
 
